@@ -1,11 +1,15 @@
 ---
-widget: spotify
+widget: github.super-yan86.wowchemy-widget-spotify
+
+# 这个文件代表一个页面部分。
 headless: true
 
 # ... 将您的部分选项放在这里（标题等）
 title: 
 subtitle:
-weight: 10  # 页面上的位置
+
+# 此部分出现在页面上的顺序。
+weight: 10
 design:
   # 选择该部分由多少列。有效值：1或2
   columns: '1'
