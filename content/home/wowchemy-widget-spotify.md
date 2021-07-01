@@ -14,4 +14,4 @@ design:
   # 选择该部分由多少列。有效值：1或2
   columns: '1'
 ---
-<iframe src="https://open.spotify.com/embed/playlist/4Peijf8k9nMcL1fdC8fI8z" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media" autoplay="autoplay"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/4Peijf8k9nMcL1fdC8fI8z" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media" autoplay="true"></iframe>
