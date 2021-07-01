@@ -9,7 +9,7 @@ title:
 subtitle:
 
 # 此部分出现在页面上的顺序。
-weight: 20
+weight: 15
 design:
   # 选择该部分由多少列。有效值：1或2
   columns: '1'
